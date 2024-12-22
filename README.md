@@ -1,6 +1,6 @@
 # E-Commerce Website 🙌
 
-The E-commerce website is a full-stack application built using React with Vite as the bundler. It incorporates Tailwind CSS for styling and Material UI for components, offering a sleek and modern user interface. The platform provides essential functionalities such as signup and login for users to access their accounts, wishlist and cart pages for managing items, search functionality to easily find products, and a profile section for personalization. Furthermore, it includes checkout processes with support for coupons and purchasing, ensuring a seamless shopping experience for customers.
+The E-commerce website is a full-stack application built using React. It incorporates Tailwind CSS for styling and Material UI for components, offering a sleek and modern user interface. The platform provides essential functionalities such as signup and login for users to access their accounts, wishlist and cart pages for managing items, search functionality to easily find products, and a profile section for personalization. Furthermore, it includes checkout processes with support for coupons and purchasing, ensuring a seamless shopping experience for customers.
 
 
   <img  src="public/assets/Screenshots/0.png" alt="Home">
@@ -22,19 +22,17 @@ The E-commerce website is a full-stack application built using React with Vite a
 ## Featured Skills
 
 1. **React**: Utilized for building the frontend interface, providing dynamic and interactive components.
-2. **Vite**: Employed as the build tool to optimize and bundle the project for production.
-3. **Tailwind CSS**: Integrated for responsive and customizable styling, enhancing the visual aesthetics of the website.
-4. **Material UI**: Leveraged for pre-designed components and UI elements, facilitating rapid development and maintaining consistency in design.
-5. **Full-stack Development**: Implemented both frontend and backend functionalities, ensuring end-to-end functionality and user experience.
-6. **User Authentication**: Implemented signup and login features to authenticate users and secure their accounts.
-7. **Wishlist and Cart Management**: Developed functionalities to add, remove, and update items in the wishlist and cart, enhancing user engagement and convenience.
-8. **Search Functionality**: Implemented a search feature to enable users to find products efficiently based on their preferences.
-9. **Checkout Process**: Designed a seamless checkout process with support for applying coupons and completing purchases, streamlining the buying journey for users.
+2. **Tailwind CSS**: Integrated for responsive and customizable styling, enhancing the visual aesthetics of the website.
+3. **Material UI**: Leveraged for pre-designed components and UI elements, facilitating rapid development and maintaining consistency in design.
+4. **Full-stack Development**: Implemented both frontend and backend functionalities, ensuring end-to-end functionality and user experience.
+5. **User Authentication**: Implemented signup and login features to authenticate users and secure their accounts.
+6. **Wishlist and Cart Management**: Developed functionalities to add, remove, and update items in the wishlist and cart, enhancing user engagement and convenience.
+7. **Search Functionality**: Implemented a search feature to enable users to find products efficiently based on their preferences.
+8. **Checkout Process**: Designed a seamless checkout process with support for applying coupons and completing purchases, streamlining the buying journey for users.
 
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
-- **Vite**: Fast, modern build tooling for frontend development.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **Material-UI**: React components for faster and easier web development.
 - **Custom Hooks**: Utilized custom React hooks for managing state and logic efficiently.
